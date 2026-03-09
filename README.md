@@ -1,4 +1,4 @@
-# FPBetaVer-1
+# FFMpeg GUI
 My first project in C#.
 Basic GUI interface for ffmpeg.
 You need FFMpeg to run this GUI.
